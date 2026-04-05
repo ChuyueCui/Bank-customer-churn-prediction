@@ -23,4 +23,10 @@ This project focuses on predicting customer churn for a bank using machine learn
 - Python  
 - scikit-learn, XGBoost, LightGBM, CatBoost  
 - Data preprocessing & feature engineering  
-- Model evaluation (ROC-AUC, precision, recall, F1-score)  
+- Model evaluation (ROC-AUC, precision, recall, F1-score)
+
+
+📄 Project Resources  
+- 📄 Report: [View Report](./customer_churn_analysis_report.pdf)  
+- 📊 Presentation: [View Slides](./customer_modeling_presentation.pdf)  
+- 💻 Code: [View Notebook](./churn_modeling.ipynb)      
