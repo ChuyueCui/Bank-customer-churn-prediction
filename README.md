@@ -27,6 +27,6 @@ This project focuses on predicting customer churn for a bank using machine learn
 
 
 📄 Project Resources  
-- 📄 Report: [View Report](./customer_churn_analysis_report.pdf)  
+- 📄 Report: [View Report](./churn_modeling_report.pdf)  
 - 📊 Presentation: [View Slides](./churn_modeling_presentation.pdf)  
 - 💻 Code: [View Notebook](./churn_modeling.ipynb)      
